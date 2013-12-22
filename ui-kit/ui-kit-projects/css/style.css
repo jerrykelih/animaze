@@ -1309,20 +1309,6 @@ body section[class*=content-] {
   -o-transition: color 0.4s;
   transition: color 0.4s;
 }
-.projects-3 .projects .project:hover .photo-wrapper {
-  background-color: #1abc9c;
-}
-.projects-3 .projects .project:hover .photo {
-  opacity: 0.4;
-  filter: alpha(opacity=40);
-}
-.projects-3 .projects .project:hover .overlay {
-  opacity: 1;
-  filter: alpha(opacity=100);
-}
-.projects-3 .projects .project:hover .name {
-  color: #7E7E7E;
-}
 @media (max-width: 767px) {
   .projects-3 .projects {
     display: block;
