@@ -2615,9 +2615,15 @@ body section[class*=content-] {
   border-radius: 6px;
   position: relative;
   overflow: hidden;
-  width: 220px;
+  max-width: 430px;
+  height: 250px;
   margin: 50px auto 40px;
   border: 4px solid #fff;
+}
+@media (max-width: 480px) {
+  .header-6-sub .player {
+    height: 150px;
+  }
 }
 .header-6-sub .player .btn-play {
   -webkit-box-sizing: border-box;

@@ -1171,11 +1171,18 @@ section * {
   border-radius: 6px;
   position: relative;
   overflow: hidden;
-  width: 220px;
+  max-width: 430px;
+  height: 250px;
   margin: 50px auto 40px;
   border: 4px solid #fff;
 }
-/* line 166, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
+@media (max-width: 480px) {
+  /* line 166, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
+  .header-6-sub .player {
+    height: 150px;
+  }
+}
+/* line 171, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
 .header-6-sub .player .btn-play {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1192,14 +1199,14 @@ section * {
   border-radius: 50%;
   border: 4px solid #fff;
 }
-/* line 176, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
+/* line 181, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
 .header-6-sub .player > iframe {
   width: 100%;
   height: 100%;
   border: 0;
   display: block;
 }
-/* line 183, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
+/* line 189, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
 .header-6-sub .signup-form form {
   margin: 0 auto;
   padding: 17px;
@@ -1208,7 +1215,7 @@ section * {
   border-radius: 6px;
   background: white;
 }
-/* line 188, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
+/* line 194, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
 .header-6-sub .signup-form form input,
 .header-6-sub .signup-form form button {
   float: left;
@@ -1220,28 +1227,28 @@ section * {
   margin: 0 0 0 2.3%;
 }
 @media (min-width: 1200px) {
-  /* line 194, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
+  /* line 200, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
   .header-6-sub .signup-form form input,
   .header-6-sub .signup-form form button {
     width: 22%;
   }
 }
 @media (max-width: 979px) and (min-width: 768px) {
-  /* line 195, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
+  /* line 201, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
   .header-6-sub .signup-form form input,
   .header-6-sub .signup-form form button {
     width: 21.4%;
   }
 }
 @media (max-width: 767px) {
-  /* line 196, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
+  /* line 202, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
   .header-6-sub .signup-form form input,
   .header-6-sub .signup-form form button {
     width: 20%;
   }
 }
 @media (max-width: 480px) {
-  /* line 197, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
+  /* line 203, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
   .header-6-sub .signup-form form input,
   .header-6-sub .signup-form form button {
     width: 100%;
@@ -1250,7 +1257,7 @@ section * {
     float: none;
   }
 }
-/* line 203, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
+/* line 209, /Users/jerry/Sites/animaze/ui-kit/ui-kit-header/less/header-6.less */
 .header-6-sub .signup-form form input:first-child,
 .header-6-sub .signup-form form button:first-child {
   margin: 0;
