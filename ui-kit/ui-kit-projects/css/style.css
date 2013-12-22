@@ -27,7 +27,8 @@
   border-bottom-color: #34495e !important;
   border-top-color: #34495e !important;
 }
-/*only fo flat-ui free*/body {
+/*only fo flat-ui free*/
+body {
   color: #34495e;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
@@ -116,27 +117,21 @@ h6 {
 p {
   font-size: 18.004px;
   /* 18px */
-
   line-height: 1.722169;
   /* 31px */
-
 }
 .lead {
   font-size: 28px;
   /* 28px */
-
   line-height: 1.4642745000000001;
   /* 41px */
-
   font-weight: 300;
 }
 small {
   font-size: 84%;
   /* 15px */
-
   line-height: 2.050846;
   /* 31px */
-
 }
 blockquote {
   position: relative;
@@ -1235,13 +1230,13 @@ body section[class*=content-] {
   text-align: right;
 }
 .projects-3 .projects .project {
-  width: 220px;
+  width: 200px;
   display: inline-block;
   vertical-align: top;
 }
 .projects-3 .projects .photo-wrapper {
-  width: 220px;
-  height: 220px;
+  width: 200px;
+  height: 200px;
   position: relative;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1282,7 +1277,7 @@ body section[class*=content-] {
   top: 0;
   text-align: center;
   color: #fff;
-  line-height: 220px;
+  line-height: 200px;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-backface-visibility: hidden;
@@ -1326,7 +1321,7 @@ body section[class*=content-] {
   filter: alpha(opacity=100);
 }
 .projects-3 .projects .project:hover .name {
-  color: #1abc9c;
+  color: #7E7E7E;
 }
 @media (max-width: 767px) {
   .projects-3 .projects {

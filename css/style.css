@@ -1289,14 +1289,14 @@ section * {
 }
 /* line 35, /Users/jerry/Sites/animaze/ui-kit/ui-kit-projects/less/project-3.less */
 .projects-3 .projects .project {
-  width: 220px;
+  width: 200px;
   display: inline-block;
   vertical-align: top;
 }
 /* line 41, /Users/jerry/Sites/animaze/ui-kit/ui-kit-projects/less/project-3.less */
 .projects-3 .projects .photo-wrapper {
-  width: 220px;
-  height: 220px;
+  width: 200px;
+  height: 200px;
   position: relative;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1339,7 +1339,7 @@ section * {
   top: 0;
   text-align: center;
   color: #fff;
-  line-height: 220px;
+  line-height: 200px;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-backface-visibility: hidden;
@@ -1391,7 +1391,7 @@ section * {
 }
 /* line 114, /Users/jerry/Sites/animaze/ui-kit/ui-kit-projects/less/project-3.less */
 .projects-3 .projects .project:hover .name {
-  color: #1abc9c;
+  color: #7E7E7E;
 }
 @media (max-width: 767px) {
   /* line 119, /Users/jerry/Sites/animaze/ui-kit/ui-kit-projects/less/project-3.less */
@@ -1799,15 +1799,19 @@ body > section {
   display: table-cell;
   text-align: center;
 }
-/* line 214, /Users/jerry/Sites/animaze/less/style.less */
+/* line 216, /Users/jerry/Sites/animaze/less/style.less */
 .projects-3 .projects .project:hover .photo-wrapper {
   background-color: #7E7E7E;
 }
 /* line 219, /Users/jerry/Sites/animaze/less/style.less */
+.projects-3 .projects .project:hover .name {
+  color: #7E7E7E;
+}
+/* line 229, /Users/jerry/Sites/animaze/less/style.less */
 footer .logo-footer {
   max-width: 300px;
 }
-/* line 224, /Users/jerry/Sites/animaze/less/style.less */
+/* line 234, /Users/jerry/Sites/animaze/less/style.less */
 .footer-3 {
   background: black;
 }
