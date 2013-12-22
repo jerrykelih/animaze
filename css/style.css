@@ -1541,6 +1541,101 @@ section * {
     margin-top: 85px;
   }
 }
+/* contacts */
+/**
+ * Copntact 4 stylesheet  
+ * */
+/* line 4, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+.contacts-4 {
+  background: #ffffff url('../../../common-files/img/map.png') 50% 50% no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #bdc3c7;
+  text-align: right;
+  padding-top: 115px;
+  padding-bottom: 130px;
+}
+/* line 12, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+.contacts-4 h3 {
+  font-size: 30px;
+  margin: 0 0 12px;
+  color: #2c3e50;
+  font-weight: 300px;
+}
+/* line 19, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+.contacts-4 p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+/* line 26, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+.contacts-4 .content {
+  margin: 0 80px;
+}
+@media (max-width: 767px) {
+  /* line 28, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+  .contacts-4 .content {
+    margin: 0;
+  }
+}
+/* line 34, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+.contacts-4 .social-btns {
+  white-space: nowrap;
+  margin-bottom: 35px;
+}
+/* line 38, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+.contacts-4 .social-btns > * {
+  display: inline-block;
+  margin-left: 15px;
+  font-size: 30px;
+  width: 30px;
+  height: 38px;
+  overflow: hidden;
+  text-align: center;
+  color: #1abc9c;
+}
+/* line 48, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+.contacts-4 .social-btns > *:first-child {
+  margin-left: 0;
+}
+/* line 52, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+.contacts-4 .social-btns > * > * {
+  display: block;
+  position: relative;
+  -webkit-backface-visibility: hidden;
+  -webkit-transition: 0.25s top;
+  -moz-transition: 0.25s top;
+  -o-transition: 0.25s top;
+  transition: 0.25s top;
+}
+/* line 57, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+.contacts-4 .social-btns > * > *:first-child {
+  color: #fff;
+}
+/* line 62, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+.contacts-4 .social-btns > *:hover > * {
+  top: -100%;
+}
+/* line 68, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+.contacts-4 .links {
+  margin: 35px 0 0;
+  font-size: 47px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  word-break: break-all;
+}
+/* line 75, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+.contacts-4 .links a {
+  padding-bottom: 3px;
+  border-bottom: 2px solid;
+}
+@media (max-width: 480px) {
+  /* line 84, /Users/jerry/Sites/animaze/ui-kit/ui-kit-contacts/less/contact-4.less */
+  .contacts-4 .links a {
+    font-size: 26px;
+  }
+}
 /* footer */
 /**
  * Footer 3 stylesheet  
@@ -1675,39 +1770,39 @@ section * {
     margin-top: 0;
   }
 }
-/* line 23, /Users/jerry/Sites/animaze/less/style.less */
+/* line 26, /Users/jerry/Sites/animaze/less/style.less */
 body > section {
   padding-top: 110px;
   padding-bottom: 130px;
 }
 @media (max-width: 480px) {
-  /* line 27, /Users/jerry/Sites/animaze/less/style.less */
+  /* line 30, /Users/jerry/Sites/animaze/less/style.less */
   body > section {
     padding-top: 90px;
     padding-bottom: 90px;
   }
 }
-/* line 33, /Users/jerry/Sites/animaze/less/style.less */
+/* line 36, /Users/jerry/Sites/animaze/less/style.less */
 a {
   color: #7491cf;
 }
-/* line 38, /Users/jerry/Sites/animaze/less/style.less */
+/* line 41, /Users/jerry/Sites/animaze/less/style.less */
 a:hover {
   color: #21499d;
 }
-/* line 42, /Users/jerry/Sites/animaze/less/style.less */
+/* line 45, /Users/jerry/Sites/animaze/less/style.less */
 i {
   font-family: 'font-awesome';
 }
-/* line 50, /Users/jerry/Sites/animaze/less/style.less */
+/* line 53, /Users/jerry/Sites/animaze/less/style.less */
 .header-6 .navbar .logo-header {
   max-width: 400px;
 }
-/* line 58, /Users/jerry/Sites/animaze/less/style.less */
+/* line 61, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 {
   padding: 0;
 }
-/* line 60, /Users/jerry/Sites/animaze/less/style.less */
+/* line 63, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1,
 .tpl-10-section-1 h1,
 .tpl-10-section-1 .h1,
@@ -1723,7 +1818,7 @@ i {
 .tpl-10-section-1 .h6 {
   color: #7f8c8d;
 }
-/* line 70, /Users/jerry/Sites/animaze/less/style.less */
+/* line 73, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 a {
   color: #bdc3c7;
 }
@@ -1733,7 +1828,7 @@ i {
 .tpl-10-section-1 a.active {
   color: #2c3e50;
 }
-/* line 75, /Users/jerry/Sites/animaze/less/style.less */
+/* line 78, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 h3 {
   font-size: 30px;
   font-weight: normal;
@@ -1743,66 +1838,66 @@ i {
   text-align: center;
   margin: 0 0 30px;
 }
-/* line 82, /Users/jerry/Sites/animaze/less/style.less */
+/* line 85, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .fui-arrow-right,
 .tpl-10-section-1 .fui-arrow-left {
   font-size: 30px;
 }
-/* line 87, /Users/jerry/Sites/animaze/less/style.less */
+/* line 90, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .pt-item-1 a:hover,
 .tpl-10-section-1 .pt-item-1 .tpl-10-section-1 a:focus,
 .tpl-10-section-1 .pt-item-1 .tpl-10-section-1 a.active {
   color: grey;
 }
-/* line 90, /Users/jerry/Sites/animaze/less/style.less */
+/* line 93, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .pt-item-1 .box-icon .icon {
   border: 7px solid black;
   color: black;
 }
-/* line 97, /Users/jerry/Sites/animaze/less/style.less */
+/* line 100, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .pt-item-2 h3,
 .tpl-10-section-1 .pt-item-2 p {
   color: white;
 }
-/* line 101, /Users/jerry/Sites/animaze/less/style.less */
+/* line 104, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .pt-item-2 a {
   color: grey;
 }
-/* line 104, /Users/jerry/Sites/animaze/less/style.less */
+/* line 107, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .pt-item-2 a:hover,
 .tpl-10-section-1 .pt-item-2 .tpl-10-section-1 a:focus,
 .tpl-10-section-1 .pt-item-2 .tpl-10-section-1 a.active {
   color: white;
 }
-/* line 107, /Users/jerry/Sites/animaze/less/style.less */
+/* line 110, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .pt-item-2 .box-icon .icon {
   border: 7px solid #FFFFFF;
   color: white;
 }
-/* line 114, /Users/jerry/Sites/animaze/less/style.less */
+/* line 117, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .page-transitions {
   height: 1000px;
 }
-/* line 115, /Users/jerry/Sites/animaze/less/style.less */
+/* line 118, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .pt-page {
   padding-top: 120px;
   padding-bottom: 120px;
 }
 @media (max-width: 767px) {
-  /* line 119, /Users/jerry/Sites/animaze/less/style.less */
+  /* line 122, /Users/jerry/Sites/animaze/less/style.less */
   .tpl-10-section-1 .pt-page {
     padding-right: 20px;
     padding-left: 20px;
   }
 }
 @media (max-width: 480px) {
-  /* line 124, /Users/jerry/Sites/animaze/less/style.less */
+  /* line 127, /Users/jerry/Sites/animaze/less/style.less */
   .tpl-10-section-1 .pt-page {
     padding-top: 70px;
     padding-bottom: 70px;
   }
 }
-/* line 129, /Users/jerry/Sites/animaze/less/style.less */
+/* line 132, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .article-info {
   margin-bottom: 80px;
   font-size: 15px;
@@ -1811,12 +1906,12 @@ i {
   font-weight: 500;
   text-align: center;
 }
-/* line 135, /Users/jerry/Sites/animaze/less/style.less */
+/* line 138, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .article-info > * {
   margin: 0;
   padding-right: 20px;
 }
-/* line 137, /Users/jerry/Sites/animaze/less/style.less */
+/* line 140, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .article-info [class*="fui-"] {
   position: relative;
   top: 2px;
@@ -1826,21 +1921,21 @@ i {
   color: #bdc3c7;
 }
 @media (max-width: 480px) {
-  /* line 144, /Users/jerry/Sites/animaze/less/style.less */
+  /* line 147, /Users/jerry/Sites/animaze/less/style.less */
   .tpl-10-section-1 .article-info {
     margin-bottom: 30px;
   }
-  /* line 147, /Users/jerry/Sites/animaze/less/style.less */
+  /* line 150, /Users/jerry/Sites/animaze/less/style.less */
   .tpl-10-section-1 .article-info > * {
     display: block;
     text-align: left;
   }
-  /* line 151, /Users/jerry/Sites/animaze/less/style.less */
+  /* line 154, /Users/jerry/Sites/animaze/less/style.less */
   .tpl-10-section-1 .article-info > * + * {
     margin-top: 10px;
   }
 }
-/* line 155, /Users/jerry/Sites/animaze/less/style.less */
+/* line 158, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .box-icon {
   margin: 0 auto 50px;
   text-align: center;
@@ -1848,12 +1943,12 @@ i {
   font-weight: normal;
   color: #2c3e50;
 }
-/* line 161, /Users/jerry/Sites/animaze/less/style.less */
+/* line 164, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .box-icon > * {
   display: inline-block;
   vertical-align: middle;
 }
-/* line 165, /Users/jerry/Sites/animaze/less/style.less */
+/* line 168, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .box-icon .icon {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1871,7 +1966,13 @@ i {
   color: #2c3e50;
   line-height: 81px;
 }
-/* line 176, /Users/jerry/Sites/animaze/less/style.less */
+@media (max-width: 480px) {
+  /* line 177, /Users/jerry/Sites/animaze/less/style.less */
+  .tpl-10-section-1 .box-icon .icon {
+    margin: 0 25px;
+  }
+}
+/* line 182, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .pt-perspective {
   position: relative;
   height: 100%;
@@ -1880,7 +1981,7 @@ i {
   perspective: 1200px;
   overflow: hidden;
 }
-/* line 184, /Users/jerry/Sites/animaze/less/style.less */
+/* line 190, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .pt-page {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1902,70 +2003,70 @@ i {
   -moz-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
-/* line 201, /Users/jerry/Sites/animaze/less/style.less */
+/* line 207, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .pt-page-current,
 .tpl-10-section-1 .no-js .pt-page {
   visibility: visible;
   z-index: 1;
 }
-/* line 206, /Users/jerry/Sites/animaze/less/style.less */
+/* line 212, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .pt-page-ontop {
   z-index: 999;
 }
-/* line 207, /Users/jerry/Sites/animaze/less/style.less */
+/* line 213, /Users/jerry/Sites/animaze/less/style.less */
 .tpl-10-section-1 .page-transitions {
   background: #000;
 }
-/* line 210, /Users/jerry/Sites/animaze/less/style.less */
+/* line 216, /Users/jerry/Sites/animaze/less/style.less */
 .logos {
   padding-top: 60px;
   padding-bottom: 60px;
 }
 @media (max-width: 767px) {
-  /* line 214, /Users/jerry/Sites/animaze/less/style.less */
+  /* line 220, /Users/jerry/Sites/animaze/less/style.less */
   .logos {
     padding-top: 20px;
     padding-bottom: 20px;
   }
 }
 @media (max-width: 480px) {
-  /* line 219, /Users/jerry/Sites/animaze/less/style.less */
+  /* line 225, /Users/jerry/Sites/animaze/less/style.less */
   .logos {
     display: none;
   }
 }
-/* line 221, /Users/jerry/Sites/animaze/less/style.less */
+/* line 227, /Users/jerry/Sites/animaze/less/style.less */
 .logos > .container {
   display: table;
 }
-/* line 224, /Users/jerry/Sites/animaze/less/style.less */
+/* line 230, /Users/jerry/Sites/animaze/less/style.less */
 .logos > .container > div {
   display: table-cell;
   text-align: center;
 }
-/* line 233, /Users/jerry/Sites/animaze/less/style.less */
+/* line 239, /Users/jerry/Sites/animaze/less/style.less */
 .projects-3 .projects .project:hover .name {
   color: #7E7E7E;
 }
-/* line 241, /Users/jerry/Sites/animaze/less/style.less */
+/* line 247, /Users/jerry/Sites/animaze/less/style.less */
 .modal-body img,
 .modal-body p {
   margin-bottom: 20px;
 }
-/* line 244, /Users/jerry/Sites/animaze/less/style.less */
+/* line 250, /Users/jerry/Sites/animaze/less/style.less */
 .modal-body img {
   width: 100px;
   height: 100px;
 }
-/* line 251, /Users/jerry/Sites/animaze/less/style.less */
+/* line 257, /Users/jerry/Sites/animaze/less/style.less */
 #press a {
   margin-bottom: 10px;
 }
-/* line 257, /Users/jerry/Sites/animaze/less/style.less */
+/* line 263, /Users/jerry/Sites/animaze/less/style.less */
 footer .logo-footer {
   max-width: 300px;
 }
-/* line 262, /Users/jerry/Sites/animaze/less/style.less */
+/* line 268, /Users/jerry/Sites/animaze/less/style.less */
 .footer-3 {
   background: black;
 }

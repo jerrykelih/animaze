@@ -17,6 +17,9 @@
 /* projects */
 @import '../ui-kit/ui-kit-projects/less/project-3.less';
 
+/* contacts */
+@import '../ui-kit/ui-kit-contacts/less/contact-4.less';
+
 /* footer */
 @import '../ui-kit/ui-kit-footer/less/footer-3.less';
 
@@ -170,7 +173,10 @@ i {
       overflow: hidden;
       .border-radius(50%);      
       .font(48px, @h-text-color);
-      .line-height(81px);      
+      .line-height(81px); 
+        @media (max-width: 480px) {
+          margin: 0 25px;
+        }     
     }
   }  
   .pt-perspective {
