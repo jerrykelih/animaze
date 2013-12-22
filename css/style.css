@@ -1807,11 +1807,21 @@ body > section {
 .projects-3 .projects .project:hover .name {
   color: #7E7E7E;
 }
-/* line 229, /Users/jerry/Sites/animaze/less/style.less */
+/* line 227, /Users/jerry/Sites/animaze/less/style.less */
+.modal-body img,
+.modal-body p {
+  margin-bottom: 20px;
+}
+/* line 230, /Users/jerry/Sites/animaze/less/style.less */
+.modal-body img {
+  width: 100px;
+  height: 100px;
+}
+/* line 237, /Users/jerry/Sites/animaze/less/style.less */
 footer .logo-footer {
   max-width: 300px;
 }
-/* line 234, /Users/jerry/Sites/animaze/less/style.less */
+/* line 242, /Users/jerry/Sites/animaze/less/style.less */
 .footer-3 {
   background: black;
 }
