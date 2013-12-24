@@ -1728,15 +1728,23 @@ h5 {
 #press .btn {
   margin-top: 20px;
 }
+/* line 196, /Users/jerry/Sites/animaze/less/style.less */
+#press h2 {
+  margin-bottom: 20px;
+}
 /* line 199, /Users/jerry/Sites/animaze/less/style.less */
+#press h3 {
+  margin-bottom: 10px;
+}
+/* line 205, /Users/jerry/Sites/animaze/less/style.less */
 #contact {
   background: #3397DB;
 }
-/* line 204, /Users/jerry/Sites/animaze/less/style.less */
+/* line 210, /Users/jerry/Sites/animaze/less/style.less */
 footer .logo-footer {
   max-width: 170px;
 }
-/* line 209, /Users/jerry/Sites/animaze/less/style.less */
+/* line 215, /Users/jerry/Sites/animaze/less/style.less */
 .footer-3 {
   background: black;
 }
