@@ -1302,24 +1302,6 @@ section * {
   -o-transition: color 0.4s;
   transition: color 0.4s;
 }
-/* line 102, /Users/jerry/Sites/animaze/ui-kit/ui-kit-projects/less/project-3.less */
-.projects-3 .projects .project:hover .photo-wrapper {
-  background-color: #FFFFFF;
-}
-/* line 106, /Users/jerry/Sites/animaze/ui-kit/ui-kit-projects/less/project-3.less */
-.projects-3 .projects .project:hover .photo {
-  opacity: 0.4;
-  filter: alpha(opacity=40);
-}
-/* line 110, /Users/jerry/Sites/animaze/ui-kit/ui-kit-projects/less/project-3.less */
-.projects-3 .projects .project:hover .overlay {
-  opacity: 1;
-  filter: alpha(opacity=100);
-}
-/* line 114, /Users/jerry/Sites/animaze/ui-kit/ui-kit-projects/less/project-3.less */
-.projects-3 .projects .project:hover .name {
-  color: #7E7E7E;
-}
 @media (max-width: 767px) {
   /* line 119, /Users/jerry/Sites/animaze/ui-kit/ui-kit-projects/less/project-3.less */
   .projects-3 .projects {
