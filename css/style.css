@@ -1795,5 +1795,6 @@ footer .logo-footer {
 }
 /* line 223, /Users/jerry/Sites/animaze/less/style.less */
 .btn-white {
+  top: 20px;
   background: #FFFFFF;
 }
