@@ -486,7 +486,7 @@ button:active {
   .navbar .nav-collapse .nav > li > a:hover,
   .navbar .nav-collapse .nav > li > a:focus,
   .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -494,7 +494,7 @@ button:active {
   .navbar .nav-collapse .nav > li.active > a:hover,
   .navbar .nav-collapse .nav > li.active > a:focus,
   .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .navbar .nav-collapse .subnav {
     display: block;
@@ -513,7 +513,7 @@ button:active {
   .navbar .nav-collapse .subnav li > a:hover,
   .navbar .nav-collapse .subnav li > a:focus,
   .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .navbar .nav-collapse .navbar-form,
   .navbar .nav-collapse .navbar-search {
@@ -715,7 +715,7 @@ section * {
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a:hover,
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a:focus,
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a.active {
     text-decoration: none;
@@ -827,7 +827,7 @@ section * {
 .dockbar .main-menu dl dd a:hover,
 .dockbar .main-menu dl dd a:focus,
 .dockbar .main-menu dl dd a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .dockbar .main-menu dl dd a.active {
   text-decoration: none;
@@ -885,7 +885,7 @@ body section[class*=content-] {
 .header-1 .brand:hover,
 .header-1 .brand:focus,
 .header-1 .brand.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .header-1 .brand img:first-child {
   float: left;
@@ -932,7 +932,7 @@ body section[class*=content-] {
 .header-1 .navbar .nav > li > a:hover,
 .header-1 .navbar .nav > li > a:focus,
 .header-1 .navbar .nav > li > a.active {
-  color: rgba(0, 0, 0, 0.4);
+  color: #C9C9C9;
 }
 .header-1 .navbar .nav > li.active > a {
   color: rgba(0, 0, 0, 0.4);
@@ -940,7 +940,7 @@ body section[class*=content-] {
 .header-1 .navbar .nav > li.active > a:hover,
 .header-1 .navbar .nav > li.active > a:focus,
 .header-1 .navbar .nav > li.active > a.active {
-  color: rgba(0, 0, 0, 0.4);
+  color: #C9C9C9;
 }
 .header-1 .navbar .btn-navbar {
   margin: 28px 0 17px;
@@ -955,7 +955,7 @@ body section[class*=content-] {
 .header-1 .navbar .btn-navbar:hover,
 .header-1 .navbar .btn-navbar:focus,
 .header-1 .navbar .btn-navbar.active {
-  color: rgba(0, 0, 0, 0.4);
+  color: #C9C9C9;
 }
 @media (max-width: 979px) {
   .header-1 .navbar .nav-collapse {
@@ -1003,7 +1003,7 @@ body section[class*=content-] {
   .header-1 .navbar .nav-collapse .nav > li > a:hover,
   .header-1 .navbar .nav-collapse .nav > li > a:focus,
   .header-1 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-1 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -1011,7 +1011,7 @@ body section[class*=content-] {
   .header-1 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-1 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-1 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-1 .navbar .nav-collapse .subnav {
     display: block;
@@ -1030,7 +1030,7 @@ body section[class*=content-] {
   .header-1 .navbar .nav-collapse .subnav li > a:hover,
   .header-1 .navbar .nav-collapse .subnav li > a:focus,
   .header-1 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-1 .navbar .nav-collapse .navbar-form,
   .header-1 .navbar .nav-collapse .navbar-search {
@@ -1189,7 +1189,7 @@ body section[class*=content-] {
 .header-1-sub .page-transitions .controls > *:hover,
 .header-1-sub .page-transitions .controls > *:focus,
 .header-1-sub .page-transitions .controls > *.active {
-  color: rgba(0, 0, 0, 0.4);
+  color: #C9C9C9;
 }
 @media (max-width: 480px) {
   .header-1-sub .page-transitions .controls > * {
@@ -1261,7 +1261,7 @@ body section[class*=content-] {
 .header-2 .navbar .nav > li > a:hover,
 .header-2 .navbar .nav > li > a:focus,
 .header-2 .navbar .nav > li > a.active {
-  color: #506e8c;
+  color: #C9C9C9;
 }
 .header-2 .navbar .nav > li.active > a {
   color: #506e8c;
@@ -1284,7 +1284,7 @@ body section[class*=content-] {
 .header-2 .navbar .btn-navbar:hover,
 .header-2 .navbar .btn-navbar:focus,
 .header-2 .navbar .btn-navbar.active {
-  color: rgba(0, 0, 0, 0.4);
+  color: #C9C9C9;
 }
 @media (max-width: 979px) {
   .header-2 .navbar .nav-collapse {
@@ -1332,7 +1332,7 @@ body section[class*=content-] {
   .header-2 .navbar .nav-collapse .nav > li > a:hover,
   .header-2 .navbar .nav-collapse .nav > li > a:focus,
   .header-2 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-2 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -1340,7 +1340,7 @@ body section[class*=content-] {
   .header-2 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-2 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-2 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-2 .navbar .nav-collapse .subnav {
     display: block;
@@ -1359,7 +1359,7 @@ body section[class*=content-] {
   .header-2 .navbar .nav-collapse .subnav li > a:hover,
   .header-2 .navbar .nav-collapse .subnav li > a:focus,
   .header-2 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-2 .navbar .nav-collapse .navbar-form,
   .header-2 .navbar .nav-collapse .navbar-search {
@@ -1533,7 +1533,7 @@ body section[class*=content-] {
 .header-3 .navbar .nav > li > a:hover,
 .header-3 .navbar .nav > li > a:focus,
 .header-3 .navbar .nav > li > a.active {
-  color: #1abc9c;
+  color: #C9C9C9;
 }
 .header-3 .navbar .nav > li.active > a {
   color: #1abc9c;
@@ -1541,7 +1541,7 @@ body section[class*=content-] {
 .header-3 .navbar .nav > li.active > a:hover,
 .header-3 .navbar .nav > li.active > a:focus,
 .header-3 .navbar .nav > li.active > a.active {
-  color: #1abc9c;
+  color: #C9C9C9;
 }
 .header-3 .navbar .btn-navbar {
   margin: 28px 0 17px;
@@ -1556,7 +1556,7 @@ body section[class*=content-] {
 .header-3 .navbar .btn-navbar:hover,
 .header-3 .navbar .btn-navbar:focus,
 .header-3 .navbar .btn-navbar.active {
-  color: #1abc9c;
+  color: #C9C9C9;
 }
 @media (max-width: 979px) {
   .header-3 .navbar .nav-collapse {
@@ -1604,7 +1604,7 @@ body section[class*=content-] {
   .header-3 .navbar .nav-collapse .nav > li > a:hover,
   .header-3 .navbar .nav-collapse .nav > li > a:focus,
   .header-3 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-3 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -1612,7 +1612,7 @@ body section[class*=content-] {
   .header-3 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-3 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-3 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-3 .navbar .nav-collapse .subnav {
     display: block;
@@ -1631,7 +1631,7 @@ body section[class*=content-] {
   .header-3 .navbar .nav-collapse .subnav li > a:hover,
   .header-3 .navbar .nav-collapse .subnav li > a:focus,
   .header-3 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-3 .navbar .nav-collapse .navbar-form,
   .header-3 .navbar .nav-collapse .navbar-search {
@@ -1819,7 +1819,7 @@ body section[class*=content-] {
 .header-5 .navbar a:hover,
 .header-5 .navbar a:focus,
 .header-5 .navbar a.active {
-  color: rgba(0, 0, 0, 0.4);
+  color: #C9C9C9;
 }
 .header-5 .navbar a:active {
   color: rgba(0, 0, 0, 0.6);
@@ -1922,7 +1922,7 @@ body section[class*=content-] {
 .header-5 .navbar .nav > li > a:hover,
 .header-5 .navbar .nav > li > a:focus,
 .header-5 .navbar .nav > li > a.active {
-  color: #506e8c;
+  color: #C9C9C9;
 }
 @media (max-width: 979px) {
   .header-5 .navbar .nav > li > a [class*="fui-"] {
@@ -2048,7 +2048,7 @@ body section[class*=content-] {
   .header-5 .navbar .nav-collapse .nav > li > a:hover,
   .header-5 .navbar .nav-collapse .nav > li > a:focus,
   .header-5 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-5 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -2056,7 +2056,7 @@ body section[class*=content-] {
   .header-5 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-5 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-5 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-5 .navbar .nav-collapse .subnav {
     display: block;
@@ -2075,7 +2075,7 @@ body section[class*=content-] {
   .header-5 .navbar .nav-collapse .subnav li > a:hover,
   .header-5 .navbar .nav-collapse .subnav li > a:focus,
   .header-5 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-5 .navbar .nav-collapse .navbar-form,
   .header-5 .navbar .nav-collapse .navbar-search {
@@ -2266,7 +2266,7 @@ body section[class*=content-] {
 .header-5-sub .pt-control-prev:focus,
 .header-5-sub .pt-control-next.active,
 .header-5-sub .pt-control-prev.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 /**
  * Header 6 stylesheet  
@@ -2389,7 +2389,7 @@ body section[class*=content-] {
 .header-6 .navbar .nav > li.active > a:hover,
 .header-6 .navbar .nav > li.active > a:focus,
 .header-6 .navbar .nav > li.active > a.active {
-  color: #cccccc;
+  color: #C9C9C9;
 }
 .header-6 .navbar .btn-navbar {
   float: right;
@@ -2461,7 +2461,7 @@ body section[class*=content-] {
   .header-6 .navbar .nav-collapse .nav > li > a:hover,
   .header-6 .navbar .nav-collapse .nav > li > a:focus,
   .header-6 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-6 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -2469,7 +2469,7 @@ body section[class*=content-] {
   .header-6 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-6 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-6 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-6 .navbar .nav-collapse .subnav {
     display: block;
@@ -2488,7 +2488,7 @@ body section[class*=content-] {
   .header-6 .navbar .nav-collapse .subnav li > a:hover,
   .header-6 .navbar .nav-collapse .subnav li > a:focus,
   .header-6 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-6 .navbar .nav-collapse .navbar-form,
   .header-6 .navbar .nav-collapse .navbar-search {
@@ -3178,7 +3178,7 @@ body section[class*=content-] {
 .header-8 .navbar .nav > li > a:hover,
 .header-8 .navbar .nav > li > a:focus,
 .header-8 .navbar .nav > li > a.active {
-  color: #34495e;
+  color: #C9C9C9;
 }
 .header-8 .navbar .nav > li.active > a {
   color: #34495e;
@@ -3186,7 +3186,7 @@ body section[class*=content-] {
 .header-8 .navbar .nav > li.active > a:hover,
 .header-8 .navbar .nav > li.active > a:focus,
 .header-8 .navbar .nav > li.active > a.active {
-  color: #34495e;
+  color: #C9C9C9;
 }
 .header-8 .navbar .btn-navbar {
   margin: 22px 0 17px;
@@ -3252,7 +3252,7 @@ body section[class*=content-] {
   .header-8 .navbar .nav-collapse .nav > li > a:hover,
   .header-8 .navbar .nav-collapse .nav > li > a:focus,
   .header-8 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-8 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -3260,7 +3260,7 @@ body section[class*=content-] {
   .header-8 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-8 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-8 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-8 .navbar .nav-collapse .subnav {
     display: block;
@@ -3279,7 +3279,7 @@ body section[class*=content-] {
   .header-8 .navbar .nav-collapse .subnav li > a:hover,
   .header-8 .navbar .nav-collapse .subnav li > a:focus,
   .header-8 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-8 .navbar .nav-collapse .navbar-form,
   .header-8 .navbar .nav-collapse .navbar-search {
@@ -3351,7 +3351,7 @@ body section[class*=content-] {
 .header-9 .navbar .brand:hover,
 .header-9 .navbar .brand:focus,
 .header-9 .navbar .brand.active {
-  color: #506e8c;
+  color: #C9C9C9;
 }
 .header-9 .navbar .brand img:first-child {
   float: left;
@@ -3390,7 +3390,7 @@ body section[class*=content-] {
 .header-9 .navbar .nav > li > a:hover,
 .header-9 .navbar .nav > li > a:focus,
 .header-9 .navbar .nav > li > a.active {
-  color: #506e8c;
+  color: #C9C9C9;
 }
 .header-9 .navbar .nav > li.active > a {
   color: #506e8c;
@@ -3464,7 +3464,7 @@ body section[class*=content-] {
   .header-9 .navbar .nav-collapse .nav > li > a:hover,
   .header-9 .navbar .nav-collapse .nav > li > a:focus,
   .header-9 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-9 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -3472,7 +3472,7 @@ body section[class*=content-] {
   .header-9 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-9 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-9 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-9 .navbar .nav-collapse .subnav {
     display: block;
@@ -3491,7 +3491,7 @@ body section[class*=content-] {
   .header-9 .navbar .nav-collapse .subnav li > a:hover,
   .header-9 .navbar .nav-collapse .subnav li > a:focus,
   .header-9 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-9 .navbar .nav-collapse .navbar-form,
   .header-9 .navbar .nav-collapse .navbar-search {
@@ -3609,7 +3609,7 @@ body section[class*=content-] {
 .header-9-sub .nav-steps a:hover,
 .header-9-sub .nav-steps a:focus,
 .header-9-sub .nav-steps a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .header-9-sub .nav-steps a:hover,
 .header-9-sub .nav-steps a:focus {
@@ -3720,7 +3720,7 @@ body section[class*=content-] {
 .header-10 .navbar .nav > li > a:hover,
 .header-10 .navbar .nav > li > a:focus,
 .header-10 .navbar .nav > li > a.active {
-  color: #bdc3c7;
+  color: #C9C9C9;
 }
 .header-10 .navbar .nav > li.active > a {
   color: #bdc3c7;
@@ -3728,7 +3728,7 @@ body section[class*=content-] {
 .header-10 .navbar .nav > li.active > a:hover,
 .header-10 .navbar .nav > li.active > a:focus,
 .header-10 .navbar .nav > li.active > a.active {
-  color: #bdc3c7;
+  color: #C9C9C9;
 }
 .header-10 .navbar .btn-navbar {
   margin: 27px 0 17px;
@@ -3794,7 +3794,7 @@ body section[class*=content-] {
   .header-10 .navbar .nav-collapse .nav > li > a:hover,
   .header-10 .navbar .nav-collapse .nav > li > a:focus,
   .header-10 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-10 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -3802,7 +3802,7 @@ body section[class*=content-] {
   .header-10 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-10 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-10 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-10 .navbar .nav-collapse .subnav {
     display: block;
@@ -3821,7 +3821,7 @@ body section[class*=content-] {
   .header-10 .navbar .nav-collapse .subnav li > a:hover,
   .header-10 .navbar .nav-collapse .subnav li > a:focus,
   .header-10 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-10 .navbar .nav-collapse .navbar-form,
   .header-10 .navbar .nav-collapse .navbar-search {
@@ -3966,7 +3966,7 @@ body section[class*=content-] {
 .header-10-sub .control-btn:hover,
 .header-10-sub .control-btn:focus,
 .header-10-sub .control-btn.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .header-10-sub .control-btn:hover,
 .header-10-sub .control-btn:focus,
@@ -4060,7 +4060,7 @@ body section[class*=content-] {
 .header-11 .navbar .nav > li.active a:focus,
 .header-11 .navbar .nav > li:active a.active,
 .header-11 .navbar .nav > li.active a.active {
-  color: #16a085;
+  color: #C9C9C9;
 }
 .header-11 .navbar .nav > li > a {
   padding: 35px 0 27px;
@@ -4074,7 +4074,7 @@ body section[class*=content-] {
 .header-11 .navbar .nav > li > a:hover,
 .header-11 .navbar .nav > li > a:focus,
 .header-11 .navbar .nav > li > a.active {
-  color: #16a085;
+  color: #C9C9C9;
 }
 .header-11 .navbar .btn-navbar {
   margin: 28px 0 17px;
@@ -4131,7 +4131,7 @@ body section[class*=content-] {
   .header-11 .navbar .nav-collapse .nav > li > a:hover,
   .header-11 .navbar .nav-collapse .nav > li > a:focus,
   .header-11 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-11 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -4139,7 +4139,7 @@ body section[class*=content-] {
   .header-11 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-11 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-11 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-11 .navbar .nav-collapse .subnav {
     display: block;
@@ -4158,7 +4158,7 @@ body section[class*=content-] {
   .header-11 .navbar .nav-collapse .subnav li > a:hover,
   .header-11 .navbar .nav-collapse .subnav li > a:focus,
   .header-11 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-11 .navbar .nav-collapse .navbar-form,
   .header-11 .navbar .nav-collapse .navbar-search {
@@ -4375,7 +4375,7 @@ body section[class*=content-] {
 .header-12 .navbar .nav a:hover,
 .header-12 .navbar .nav a:focus,
 .header-12 .navbar .nav a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 @media (max-width: 480px) {
   .header-12 .navbar {
@@ -5032,7 +5032,7 @@ body section[class*=content-] {
 .header-15 .navbar .nav > li > a:hover,
 .header-15 .navbar .nav > li > a:focus,
 .header-15 .navbar .nav > li > a.active {
-  color: #bdc3c7;
+  color: #C9C9C9;
 }
 .header-15 .navbar .nav > li.active > a {
   color: #bdc3c7;
@@ -5040,7 +5040,7 @@ body section[class*=content-] {
 .header-15 .navbar .nav > li.active > a:hover,
 .header-15 .navbar .nav > li.active > a:focus,
 .header-15 .navbar .nav > li.active > a.active {
-  color: #bdc3c7;
+  color: #C9C9C9;
 }
 .header-15 .navbar .btn-navbar {
   margin: 28px 0 17px;
@@ -5096,7 +5096,7 @@ body section[class*=content-] {
   .header-15 .navbar .nav-collapse .nav > li > a:hover,
   .header-15 .navbar .nav-collapse .nav > li > a:focus,
   .header-15 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-15 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -5104,7 +5104,7 @@ body section[class*=content-] {
   .header-15 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-15 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-15 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-15 .navbar .nav-collapse .subnav {
     display: block;
@@ -5123,7 +5123,7 @@ body section[class*=content-] {
   .header-15 .navbar .nav-collapse .subnav li > a:hover,
   .header-15 .navbar .nav-collapse .subnav li > a:focus,
   .header-15 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-15 .navbar .nav-collapse .navbar-form,
   .header-15 .navbar .nav-collapse .navbar-search {
@@ -5436,7 +5436,7 @@ body section[class*=content-] {
 .header-16 .navbar .nav-collapse .nav > li > a:hover,
 .header-16 .navbar .nav-collapse .nav > li > a:focus,
 .header-16 .navbar .nav-collapse .nav > li > a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .header-16 .navbar .nav-collapse .nav > li.active > a {
   color: #ffffff;
@@ -5444,7 +5444,7 @@ body section[class*=content-] {
 .header-16 .navbar .nav-collapse .nav > li.active > a:hover,
 .header-16 .navbar .nav-collapse .nav > li.active > a:focus,
 .header-16 .navbar .nav-collapse .nav > li.active > a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .header-16 .navbar .nav-collapse .subnav {
   display: block;
@@ -5464,7 +5464,7 @@ body section[class*=content-] {
 .header-16 .navbar .nav-collapse .subnav li > a:hover,
 .header-16 .navbar .nav-collapse .subnav li > a:focus,
 .header-16 .navbar .nav-collapse .subnav li > a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .header-16 .navbar .nav-collapse .navbar-form,
 .header-16 .navbar .nav-collapse .navbar-search {
@@ -5673,7 +5673,7 @@ body section[class*=content-] {
 .header-16-sub .scroll-btn > *:hover,
 .header-16-sub .scroll-btn > *:focus,
 .header-16-sub .scroll-btn > *.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .header-16-sub .scroll-btn > *:hover,
 .header-16-sub .scroll-btn > *:focus,
@@ -5950,7 +5950,7 @@ body section[class*=content-] {
 .header-17 .navbar .nav > li > a:hover,
 .header-17 .navbar .nav > li > a:focus,
 .header-17 .navbar .nav > li > a.active {
-  color: #1abc9c;
+  color: #C9C9C9;
 }
 .header-17 .navbar .nav > li.active > a {
   color: #1abc9c;
@@ -5958,7 +5958,7 @@ body section[class*=content-] {
 .header-17 .navbar .nav > li.active > a:hover,
 .header-17 .navbar .nav > li.active > a:focus,
 .header-17 .navbar .nav > li.active > a.active {
-  color: #1abc9c;
+  color: #C9C9C9;
 }
 .header-17 .navbar .btn-navbar {
   margin: 37px 0 17px;
@@ -5973,7 +5973,7 @@ body section[class*=content-] {
 .header-17 .navbar .btn-navbar:hover,
 .header-17 .navbar .btn-navbar:focus,
 .header-17 .navbar .btn-navbar.active {
-  color: #1abc9c;
+  color: #C9C9C9;
 }
 @media (max-width: 979px) {
   .header-17 .navbar .nav-collapse {
@@ -6021,7 +6021,7 @@ body section[class*=content-] {
   .header-17 .navbar .nav-collapse .nav > li > a:hover,
   .header-17 .navbar .nav-collapse .nav > li > a:focus,
   .header-17 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-17 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -6029,7 +6029,7 @@ body section[class*=content-] {
   .header-17 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-17 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-17 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-17 .navbar .nav-collapse .subnav {
     display: block;
@@ -6048,7 +6048,7 @@ body section[class*=content-] {
   .header-17 .navbar .nav-collapse .subnav li > a:hover,
   .header-17 .navbar .nav-collapse .subnav li > a:focus,
   .header-17 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-17 .navbar .nav-collapse .navbar-form,
   .header-17 .navbar .nav-collapse .navbar-search {
@@ -6680,7 +6680,7 @@ body section[class*=content-] {
 .header-18 .header-18-sub .additional-links a:hover,
 .header-18 .header-18-sub .additional-links a:focus,
 .header-18 .header-18-sub .additional-links a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 /**
  * Header 19 stylesheet  
@@ -6829,7 +6829,7 @@ body section[class*=content-] {
 .header-19 .navbar .nav-collapse .nav > li > a:hover,
 .header-19 .navbar .nav-collapse .nav > li > a:focus,
 .header-19 .navbar .nav-collapse .nav > li > a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .header-19 .navbar .nav-collapse .nav > li.active > a {
   color: #ffffff;
@@ -6837,7 +6837,7 @@ body section[class*=content-] {
 .header-19 .navbar .nav-collapse .nav > li.active > a:hover,
 .header-19 .navbar .nav-collapse .nav > li.active > a:focus,
 .header-19 .navbar .nav-collapse .nav > li.active > a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .header-19 .navbar .nav-collapse .subnav {
   display: block;
@@ -6857,7 +6857,7 @@ body section[class*=content-] {
 .header-19 .navbar .nav-collapse .subnav li > a:hover,
 .header-19 .navbar .nav-collapse .subnav li > a:focus,
 .header-19 .navbar .nav-collapse .subnav li > a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .header-19 .navbar .nav-collapse .navbar-form,
 .header-19 .navbar .nav-collapse .navbar-search {
@@ -7057,7 +7057,7 @@ body section[class*=content-] {
 .header-20 .navbar .nav > li > a:hover,
 .header-20 .navbar .nav > li > a:focus,
 .header-20 .navbar .nav > li > a.active {
-  color: #3498db;
+  color: #C9C9C9;
 }
 .header-20 .navbar .nav > li.active > a {
   color: #3498db;
@@ -7065,7 +7065,7 @@ body section[class*=content-] {
 .header-20 .navbar .nav > li.active > a:hover,
 .header-20 .navbar .nav > li.active > a:focus,
 .header-20 .navbar .nav > li.active > a.active {
-  color: #3498db;
+  color: #C9C9C9;
 }
 .header-20 .navbar .btn-navbar {
   margin: 28px 0 17px;
@@ -7131,7 +7131,7 @@ body section[class*=content-] {
   .header-20 .navbar .nav-collapse .nav > li > a:hover,
   .header-20 .navbar .nav-collapse .nav > li > a:focus,
   .header-20 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-20 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -7139,7 +7139,7 @@ body section[class*=content-] {
   .header-20 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-20 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-20 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-20 .navbar .nav-collapse .subnav {
     display: block;
@@ -7158,7 +7158,7 @@ body section[class*=content-] {
   .header-20 .navbar .nav-collapse .subnav li > a:hover,
   .header-20 .navbar .nav-collapse .subnav li > a:focus,
   .header-20 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-20 .navbar .nav-collapse .navbar-form,
   .header-20 .navbar .nav-collapse .navbar-search {
@@ -7489,7 +7489,7 @@ body section[class*=content-] {
 .header-21 .navbar .nav > li > a:hover,
 .header-21 .navbar .nav > li > a:focus,
 .header-21 .navbar .nav > li > a.active {
-  color: #e74c3c;
+  color: #C9C9C9;
 }
 .header-21 .navbar .nav > li.active > a {
   color: #e74c3c;
@@ -7497,7 +7497,7 @@ body section[class*=content-] {
 .header-21 .navbar .nav > li.active > a:hover,
 .header-21 .navbar .nav > li.active > a:focus,
 .header-21 .navbar .nav > li.active > a.active {
-  color: #e74c3c;
+  color: #C9C9C9;
 }
 .header-21 .navbar .btn-navbar {
   margin: 28px 0 17px;
@@ -7562,7 +7562,7 @@ body section[class*=content-] {
   .header-21 .navbar .nav-collapse .nav > li > a:hover,
   .header-21 .navbar .nav-collapse .nav > li > a:focus,
   .header-21 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-21 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -7570,7 +7570,7 @@ body section[class*=content-] {
   .header-21 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-21 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-21 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-21 .navbar .nav-collapse .subnav {
     display: block;
@@ -7589,7 +7589,7 @@ body section[class*=content-] {
   .header-21 .navbar .nav-collapse .subnav li > a:hover,
   .header-21 .navbar .nav-collapse .subnav li > a:focus,
   .header-21 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-21 .navbar .nav-collapse .navbar-form,
   .header-21 .navbar .nav-collapse .navbar-search {
@@ -7853,7 +7853,7 @@ body section[class*=content-] {
   .header-22 .navbar .nav-collapse .nav > li > a:hover,
   .header-22 .navbar .nav-collapse .nav > li > a:focus,
   .header-22 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-22 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -7861,7 +7861,7 @@ body section[class*=content-] {
   .header-22 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-22 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-22 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-22 .navbar .nav-collapse .subnav {
     display: block;
@@ -7880,7 +7880,7 @@ body section[class*=content-] {
   .header-22 .navbar .nav-collapse .subnav li > a:hover,
   .header-22 .navbar .nav-collapse .subnav li > a:focus,
   .header-22 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-22 .navbar .nav-collapse .navbar-form,
   .header-22 .navbar .nav-collapse .navbar-search {
@@ -8042,7 +8042,7 @@ body section[class*=content-] {
 .header-23 .navbar .nav > li > a:hover,
 .header-23 .navbar .nav > li > a:focus,
 .header-23 .navbar .nav > li > a.active {
-  color: #506e8c;
+  color: #C9C9C9;
 }
 .header-23 .navbar .nav > li.active > a {
   color: #506e8c;
@@ -8065,7 +8065,7 @@ body section[class*=content-] {
 .header-23 .navbar .btn-navbar:hover,
 .header-23 .navbar .btn-navbar:focus,
 .header-23 .navbar .btn-navbar.active {
-  color: rgba(0, 0, 0, 0.4);
+  color: #C9C9C9;
 }
 @media (max-width: 979px) {
   .header-23 .navbar .nav-collapse {
@@ -8113,7 +8113,7 @@ body section[class*=content-] {
   .header-23 .navbar .nav-collapse .nav > li > a:hover,
   .header-23 .navbar .nav-collapse .nav > li > a:focus,
   .header-23 .navbar .nav-collapse .nav > li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-23 .navbar .nav-collapse .nav > li.active > a {
     color: #ffffff;
@@ -8121,7 +8121,7 @@ body section[class*=content-] {
   .header-23 .navbar .nav-collapse .nav > li.active > a:hover,
   .header-23 .navbar .nav-collapse .nav > li.active > a:focus,
   .header-23 .navbar .nav-collapse .nav > li.active > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-23 .navbar .nav-collapse .subnav {
     display: block;
@@ -8140,7 +8140,7 @@ body section[class*=content-] {
   .header-23 .navbar .nav-collapse .subnav li > a:hover,
   .header-23 .navbar .nav-collapse .subnav li > a:focus,
   .header-23 .navbar .nav-collapse .subnav li > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .header-23 .navbar .nav-collapse .navbar-form,
   .header-23 .navbar .nav-collapse .navbar-search {
@@ -8196,7 +8196,7 @@ body section[class*=content-] {
   width: 67px;
   height: 67px;
   margin: 0 50px;
-  background: url(../../../common-files/img/header/btn-play.png) no-repeat;
+  background: url(../img/btn-play.png) no-repeat;
 }
 @media (max-width: 979px) {
   .header-23-sub .hero-unit .btn-play {

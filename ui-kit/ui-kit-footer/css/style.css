@@ -27,7 +27,8 @@
   border-bottom-color: #34495e !important;
   border-top-color: #34495e !important;
 }
-/*only fo flat-ui free*/body {
+/*only fo flat-ui free*/
+body {
   color: #34495e;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
@@ -116,27 +117,21 @@ h6 {
 p {
   font-size: 18.004px;
   /* 18px */
-
   line-height: 1.722169;
   /* 31px */
-
 }
 .lead {
   font-size: 28px;
   /* 28px */
-
   line-height: 1.4642745000000001;
   /* 41px */
-
   font-weight: 300;
 }
 small {
   font-size: 84%;
   /* 15px */
-
   line-height: 2.050846;
   /* 31px */
-
 }
 blockquote {
   position: relative;
@@ -608,7 +603,7 @@ section * {
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a:hover,
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a:focus,
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a.active {
     text-decoration: none;
@@ -720,7 +715,7 @@ section * {
 .dockbar .main-menu dl dd a:hover,
 .dockbar .main-menu dl dd a:focus,
 .dockbar .main-menu dl dd a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .dockbar .main-menu dl dd a.active {
   text-decoration: none;
@@ -1073,7 +1068,7 @@ body section[class*=content-] {
 .footer-3 a:hover,
 .footer-3 a:focus,
 .footer-3 a.active {
-  color: #bdc3c7;
+  color: #C9C9C9;
 }
 .footer-3 h1,
 .footer-3 .h1,
@@ -1103,7 +1098,7 @@ body section[class*=content-] {
 .footer-3 .additional-links a:hover,
 .footer-3 .additional-links a:focus,
 .footer-3 .additional-links a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .footer-3 h6 {
   margin: 0 0 10px;
@@ -1143,7 +1138,7 @@ body section[class*=content-] {
 .footer-4 .brand:hover,
 .footer-4 .brand:focus,
 .footer-4 .brand.active {
-  color: #1abc9c;
+  color: #C9C9C9;
 }
 /**
  * Footer 5 stylesheet  
@@ -1446,7 +1441,7 @@ body section[class*=content-] {
 .footer-7 a:hover,
 .footer-7 a:focus,
 .footer-7 a.active {
-  color: #a1a6a9;
+  color: #C9C9C9;
 }
 .footer-7 nav {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -1490,7 +1485,7 @@ body section[class*=content-] {
 .footer-7 nav ul li .scroll-top:hover,
 .footer-7 nav ul li .scroll-top:focus,
 .footer-7 nav ul li .scroll-top.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .footer-7 nav ul li .scroll-top:hover,
 .footer-7 nav ul li .scroll-top:focus {
@@ -1580,7 +1575,7 @@ body section[class*=content-] {
 .footer-8 a:hover,
 .footer-8 a:focus,
 .footer-8 a.active {
-  color: #1abc9c;
+  color: #C9C9C9;
 }
 .footer-8 nav {
   margin-bottom: 40px;
@@ -1700,7 +1695,7 @@ body section[class*=content-] {
 .footer-10 .brand:hover,
 .footer-10 .brand:focus,
 .footer-10 .brand.active {
-  color: #e74c3c;
+  color: #C9C9C9;
 }
 .footer-10 p {
   font-size: 16px;
@@ -1890,7 +1885,7 @@ body section[class*=content-] {
 .footer-11 a:hover,
 .footer-11 a:focus,
 .footer-11 a.active {
-  color: #3498db;
+  color: #C9C9C9;
 }
 .footer-11 .brand {
   position: absolute;
@@ -1927,7 +1922,7 @@ body section[class*=content-] {
 .footer-11 nav ul li a:hover,
 .footer-11 nav ul li a:focus,
 .footer-11 nav ul li a.active {
-  color: #bdc3c7;
+  color: #C9C9C9;
 }
 .footer-11 .social-btns {
   white-space: nowrap;
@@ -2162,7 +2157,7 @@ body section[class*=content-] {
 .footer-13 nav ul li a:hover,
 .footer-13 nav ul li a:focus,
 .footer-13 nav ul li a.active {
-  color: #e74c3c;
+  color: #C9C9C9;
 }
 @media (max-width: 480px) {
   .footer-13 nav {
@@ -2204,7 +2199,7 @@ body section[class*=content-] {
 .footer-14 a:hover,
 .footer-14 a:focus,
 .footer-14 a.active {
-  color: #e74c3c;
+  color: #C9C9C9;
 }
 .footer-14 nav {
   font-size: 16px;

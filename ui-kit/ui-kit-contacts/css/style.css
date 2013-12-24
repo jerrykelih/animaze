@@ -603,7 +603,7 @@ section * {
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a:hover,
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a:focus,
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a.active {
     text-decoration: none;
@@ -715,7 +715,7 @@ section * {
 .dockbar .main-menu dl dd a:hover,
 .dockbar .main-menu dl dd a:focus,
 .dockbar .main-menu dl dd a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .dockbar .main-menu dl dd a.active {
   text-decoration: none;
@@ -1124,12 +1124,15 @@ body section[class*=content-] {
 .contacts-4 h3 {
   font-size: 30px;
   margin: 0 0 12px;
-  color: #2c3e50;
+  color: white;
   font-weight: 300px;
 }
 .contacts-4 p {
   font-size: 16px;
   line-height: 1.6;
+}
+.contacts-4 a {
+  color: white;
 }
 .contacts-4 .content {
   margin: 0 80px;

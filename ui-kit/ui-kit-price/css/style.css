@@ -27,7 +27,8 @@
   border-bottom-color: #34495e !important;
   border-top-color: #34495e !important;
 }
-/*only fo flat-ui free*/body {
+/*only fo flat-ui free*/
+body {
   color: #34495e;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
@@ -116,27 +117,21 @@ h6 {
 p {
   font-size: 18.004px;
   /* 18px */
-
   line-height: 1.722169;
   /* 31px */
-
 }
 .lead {
   font-size: 28px;
   /* 28px */
-
   line-height: 1.4642745000000001;
   /* 41px */
-
   font-weight: 300;
 }
 small {
   font-size: 84%;
   /* 15px */
-
   line-height: 2.050846;
   /* 31px */
-
 }
 blockquote {
   position: relative;
@@ -635,7 +630,7 @@ section * {
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a:hover,
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a:focus,
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a.active {
     text-decoration: none;
@@ -747,7 +742,7 @@ section * {
 .dockbar .main-menu dl dd a:hover,
 .dockbar .main-menu dl dd a:focus,
 .dockbar .main-menu dl dd a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .dockbar .main-menu dl dd a.active {
   text-decoration: none;

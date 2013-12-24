@@ -656,7 +656,7 @@ section * {
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a:hover,
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a:focus,
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a.active {
-    color: #ffffff;
+    color: #C9C9C9;
   }
   .dockbar.navbar-fixed-top .colapsed-menu dl dd > a.active {
     text-decoration: none;
@@ -768,7 +768,7 @@ section * {
 .dockbar .main-menu dl dd a:hover,
 .dockbar .main-menu dl dd a:focus,
 .dockbar .main-menu dl dd a.active {
-  color: #ffffff;
+  color: #C9C9C9;
 }
 .dockbar .main-menu dl dd a.active {
   text-decoration: none;
@@ -823,7 +823,7 @@ body section[class*=content-] {
 .projects-1 .title a:hover,
 .projects-1 .title a:focus,
 .projects-1 .title a.active {
-  color: #1abc9c;
+  color: #C9C9C9;
 }
 .projects-1 .head-box {
   -webkit-box-sizing: border-box;
@@ -1308,6 +1308,20 @@ body section[class*=content-] {
   -moz-transition: color 0.4s;
   -o-transition: color 0.4s;
   transition: color 0.4s;
+}
+.projects-3 .projects .project:hover .photo-wrapper {
+  background-color: #FFFFFF;
+}
+.projects-3 .projects .project:hover .photo {
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+}
+.projects-3 .projects .project:hover .overlay {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+.projects-3 .projects .project:hover .name {
+  color: #7E7E7E;
 }
 @media (max-width: 767px) {
   .projects-3 .projects {
