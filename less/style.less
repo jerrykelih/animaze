@@ -95,9 +95,28 @@ margin-bottom: 10px;
   display: none;
 }
 
+button.close {
+   right: -20px;
+   top: -32px;
+   position: absolute;
+   font-size: 25px;
+   color: white;
+   z-index: 3000;
+   opacity: 1;
+   width: 30px;
+   height: 30px;
+}
+
+button.close:hover, button.close:focus {
+color: #D6D6D6;
+text-decoration: none;
+cursor: pointer;
+opacity: 1;
+}
+
 .popup-video {
   z-index: 1000;
-  margin: 0 10%;
+  margin: 5% 10%;
   width: 80%;
   height: 100%;
   position: fixed;

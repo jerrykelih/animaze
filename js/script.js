@@ -17,8 +17,8 @@ $(document).ready(function() {
         evt.preventDefault();
         $('.mask').fadeIn('slow');
         $('.popup-video').fadeIn('slow');
-        player.api('play')
-        $('.mask').click(function() {
+        player.api('play');
+        $('.mask, .close-btn').click(function() {
             player.api('pause');
             $('.popup-video').fadeOut('slow');
             $('.mask').fadeOut('slow');
