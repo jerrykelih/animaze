@@ -1835,22 +1835,61 @@ footer .logo-footer {
 }
 /* line 269, /Users/jerry/Sites/animaze/less/style.less */
 .features section {
-  padding-top: 100px;
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
-/* line 272, /Users/jerry/Sites/animaze/less/style.less */
+/* line 273, /Users/jerry/Sites/animaze/less/style.less */
 .features section h3 {
   padding-top: 20px;
   padding-bottom: 30px;
   line-height: 1.5em;
 }
-/* line 277, /Users/jerry/Sites/animaze/less/style.less */
+/* line 278, /Users/jerry/Sites/animaze/less/style.less */
 .features section p {
   font-weight: 300;
   color: #2c3e50;
 }
-/* line 282, /Users/jerry/Sites/animaze/less/style.less */
-.features section img {
+/* line 283, /Users/jerry/Sites/animaze/less/style.less */
+.features section .feat-icon {
   width: 100px;
   height: 100px;
   margin-bottom: 20px;
+}
+/* line 289, /Users/jerry/Sites/animaze/less/style.less */
+.features section .comparison-chart {
+  max-width: 600px;
+}
+/* line 292, /Users/jerry/Sites/animaze/less/style.less */
+.features section .dl-pdf {
+  margin-top: 20px;
+}
+/* line 300, /Users/jerry/Sites/animaze/less/style.less */
+.team #home {
+  padding-bottom: 180px;
+  background-color: #191919;
+}
+/* line 305, /Users/jerry/Sites/animaze/less/style.less */
+.team section {
+  padding-top: 100px;
+}
+/* line 308, /Users/jerry/Sites/animaze/less/style.less */
+.team section h3 {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  line-height: 1.5em;
+}
+/* line 313, /Users/jerry/Sites/animaze/less/style.less */
+.team section p {
+  font-weight: 300;
+  color: #2c3e50;
+}
+/* line 318, /Users/jerry/Sites/animaze/less/style.less */
+.team section img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+/* line 324, /Users/jerry/Sites/animaze/less/style.less */
+.team section .member {
+  margin-bottom: 60px;
 }
