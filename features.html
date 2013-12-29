@@ -5,8 +5,6 @@
     <title>Animaze Technology</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="shortcut icon" href="flat-ui/images/favicon.ico">
-
     <link rel="stylesheet" href="flat-ui/bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="flat-ui/bootstrap/css/bootstrap-responsive.css">
     <link rel="stylesheet" href="flat-ui/css/flat-ui.css">
@@ -19,6 +17,8 @@
     <link rel="stylesheet" href="common-files/css/animations.css">
     <link rel="stylesheet" href="css/style.css">
 
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
     <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
@@ -46,6 +46,7 @@
 
   <body class="features">
 
+
     <!-- header-23 -->
            <header  id="home" class="header-23">
                 <div class="container">
@@ -53,7 +54,7 @@
                         <div class="navbar span12">
                             <div class="navbar-inner">
                                 <button type="button" class="btn btn-navbar"></button>
-                                <img class="logo-header" src="img/logo.svg">
+                                <a href="index.html"><img class="logo-header" src="img/logo.svg"></a>
                                 <div class="nav-collapse collapse">
                                     <ul class="nav pull-right">
                                         <li><a href="index.html#home">Home</a></li>
@@ -72,7 +73,7 @@
 <section id="technology">
         <div class="container">
             <div class="row">
-                <div class="span8 offset2 inset2">
+                <div class="span10 offset1 inset1">
                     <div class="text-center"><img lass="feat-icon" src="img/magic.svg"></div> 
                     <h3 class="text-center">Technology - How we do the magic</h3>
                     
@@ -85,21 +86,46 @@
                     </p>
                 </div>
             </div>
+            <div class="row arrow-up">
+               <div class="span12">
+                  <a class="control-btn fui-arrow-up" href="#"> </a>
+               </div> 
+            </div>
         </div>
     </section>
 
 <section id="comparison">
         <div class="container">
             <div class="row">
-                <div class="span8 offset2 inset2">
+                <div class="span10 offset1 inset1">
                     <div class="text-center"><img class="feat-icon" src="img/calculator.svg"></div> 
                     <h3 class="text-center">Comparison with existing solution</h3>
-                    <img class="comparison-chart" src="img/comparison.png">
-                    <div class="dl-pdf text-center"><a href="pdf/animaze-comparison-with-existing.pdf" target="_blank"><button class="btn btn-info mrs">Download High Resolution PDF</button></a></div>
+                    <img class="comparison-chart" src="img/comparison.png" data-toggle="modal" data-target="#compare">
+
+                      <!-- Comparison Big Modal -->
+                      <div class="modal fade" id="compare" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                          <div class="modal-body">
+                              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                              <img src="img/comparison-big.png">
+                          </div>
+                        </div><!-- /.modal-dialog -->
+                      </div><!-- /.modal -->  
 
                       
-                       </p>
+                    <div class="dl-pdf text-center"><a href="pdf/animaze-comparison-with-existing.pdf" target="_blank"><button class="btn btn-info mrs">Download High Resolution PDF</button></a></div>
                 </div>
+            </div>
+
+            
+
+
+
+
+            <div class="row arrow-up">
+               <div class="span12">
+                  <a class="control-btn fui-arrow-up" href="#"> </a>
+               </div> 
             </div>
         </div>
     </section>
@@ -108,7 +134,7 @@
 <section id="revolution">
         <div class="container">
             <div class="row">
-                <div class="span8 offset2 inset2">
+                <div class="span10 offset1 inset1">
                     <div class="text-center"><img lass="feat-icon" src="img/video.svg"></div> 
                     <h3 class="text-center">The foreign language revolution in 3D animation is here!</h3>
                     
@@ -126,8 +152,15 @@
 
                       
                        </p>
+                                  
                 </div>
+
             </div>
+          <div class="row arrow-up">
+             <div class="span12">
+                <a class="control-btn fui-arrow-up" href="#"> </a>
+             </div> 
+          </div>
         </div>
     </section>
   
@@ -143,7 +176,7 @@
           </div>
           <div class="span4">
             <div class="span4">
-            <a class="control-btn btn-white fui-arrow-up" href="#"> </a>
+          
             </div>
           </div>
           <div class="span3">
