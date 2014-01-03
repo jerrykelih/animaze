@@ -20,6 +20,9 @@
 /* footer */
 @import '../ui-kit/ui-kit-footer/less/footer-3.less';
 
+
+@animaze-blue: #3498db;
+
 body > section {
   padding-top: 110px;
   padding-bottom: 130px;
@@ -244,7 +247,7 @@ h6 {
     a:hover h3, 
     a:focus h3, 
     a:active h3 {
-      color: #3498db;
+      color: @animaze-blue;
     }
 
     img {
@@ -386,7 +389,38 @@ footer {
    background: #FFFFFF;
 }
 
+#home {
 
+  .navbar {
+      
+      .nav ul {
+        padding-top: 9px;
+      }
+
+      .nav ul:before{
+        border-color: transparent transparent rgba(0, 0, 0, 0.85) transparent !important;
+       top: 0px;
+      }
+
+      .nav ul li {
+        background-color: rgba(0, 0, 0, 0.85);
+      }
+
+      .nav ul a {
+       .border-radius(0px);
+       color: #ffffff;
+       display: block;
+       font-size: 14px;
+       padding: 10px 13px;
+       text-decoration: none;
+      }
+
+      .nav ul a:hover {
+        background-color: @animaze-blue;
+      }
+
+    }
+}
 
 .features, .team {
     p,
@@ -402,9 +436,41 @@ footer {
        margin-bottom: 60px;
 
        .navbar-inner {
-         background-color: rgba(0, 0, 0, 0.85);
+         
          padding: 0px 40px;
        }
+
+      .navbar {
+        background-color: rgba(0, 0, 0, 0.85);
+       
+
+        .nav ul {
+          padding-top: 9px;
+        }
+
+        .nav ul:before{
+          border-color: transparent transparent rgba(0, 0, 0, 0.85) transparent !important;
+         top: 0px;
+        }
+
+        .nav ul li {
+          background-color: rgba(0, 0, 0, 0.85);
+        }
+
+        .nav ul a {
+         .border-radius(0px);
+         color: #ffffff;
+         display: block;
+         font-size: 14px;
+         padding: 10px 13px;
+         text-decoration: none;
+        }
+
+        .nav ul a:hover {
+          background-color: @animaze-blue;
+        }
+
+        }
     }
 
 }
@@ -413,6 +479,10 @@ footer {
 
 
 .features {
+
+    .dd-li {
+      position: absolute;
+    }
 
     #comparison {
 
