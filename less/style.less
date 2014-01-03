@@ -51,6 +51,15 @@ h5 {
    text-transform: none;
 }
 
+h6 {
+  font-size: 1.5em;
+  font-weight: 300;
+  line-height: 1.7em;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-transform: none;
+}
+
 .arrow-float {
   position: fixed;
   bottom: 100px;
@@ -85,18 +94,27 @@ h5 {
 
 }
 
+.header-23{
+    .navbar-inner {
+      padding: 0px 40px;
+
+    }
+}
+
 
 .header-23-sub {
   padding-top: 190px;
   padding-bottom: 50px;
-}
-.header-23-sub {
   background: #1b1e21;
 
   .background {
     background-image:  url(../img/header.jpg);
   }
+
+
 }
+
+
 
 .mask {
   z-index: 1000;
@@ -369,26 +387,75 @@ footer {
 }
 
 
+
 .features, .team {
-    p {
+    p,
+    ol li {
      font-weight: 300;
      font-size: 21px;
      line-height: 1.8em;
      color: @midnight-blue;
      text-align: justify;
     }
+
+    #home {
+       margin-bottom: 60px;
+
+       .navbar-inner {
+         background-color: rgba(0, 0, 0, 0.85);
+         padding: 0px 40px;
+       }
+    }
+
 }
+
+
 
 
 .features {
 
+    #comparison {
 
+      .row {
+        margin-left: 0px !important;
+      }
 
-   #home {
-      margin-bottom: 40px;
-      padding-bottom: 180px;
-      background-color: #191919;
-   }
+      .bluebox {
+        margin: 20px 0px 70px 0px;
+      }
+
+      .prod {
+        background-color: #F3FCFF;
+      }
+      .post {
+        background-color: #DCF8FF;
+      }
+      .launch {
+        background-color: #CAF5FF;
+      }
+
+      .comparison-list {
+      padding: 10px;
+      }
+
+      h4 {
+        margin-bottom: 30px;
+        margin-top: 30px;
+      }
+
+      h5 img {
+        padding-left: 25px;
+        width: 30px;
+      }
+
+      li {
+        font-size: 1em;
+        font-weight: 300;
+        line-height: 1.7em;
+        padding-bottom: 20px;
+      }
+    }
+
    .arrow-up {
     margin-top: 180px;
     margin-bottom: 0px;
@@ -427,10 +494,6 @@ footer {
 
 .team {
 
-   #home {
-      padding-bottom: 180px;
-      background-color: #191919;
-   }
    .arrow-up-content  {
     display: block;
     position: relative;
