@@ -1788,6 +1788,14 @@ footer .logo-footer {
   top: 20px;
   background: #FFFFFF;
 }
+/* line 397, /Users/jerry/Sites/animaze/less/style.less */
+#home {
+  margin-bottom: 60px;
+}
+/* line 399, /Users/jerry/Sites/animaze/less/style.less */
+#home .navbar {
+  background-color: rgba(0, 0, 0, 0.85);
+}
 /* line 401, /Users/jerry/Sites/animaze/less/style.less */
 #home .navbar .nav ul {
   padding-top: 9px;
