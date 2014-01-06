@@ -1495,9 +1495,6 @@ h6 {
   text-transform: none;
 }
 /* line 66, /Users/jerry/Sites/animaze/less/style.less */
-.arrow-float {
-  position: fixed;
-  bottom: 100px;
   left: 40px;
   z-index: 9999;
 }
