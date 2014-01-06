@@ -8000,7 +8000,7 @@ body section[class*=content-] {
 .header-23 .navbar {
   position: absolute;
   z-index: 2;
-  top: 60px;
+  top: 0px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .header-23 .navbar.navbar-fixed-top {
@@ -8147,7 +8147,7 @@ body section[class*=content-] {
     padding: 10px 35px;
   }
 }
-.header-23-sub {
+.header-sub {
   z-index: 50;
   left: 0;
   width: 100%;
@@ -8158,37 +8158,37 @@ body section[class*=content-] {
   text-align: center;
 }
 @media (max-width: 979px) {
-  .header-23-sub {
+  .header-sub {
     padding-top: 260px;
     padding-bottom: 170px;
   }
 }
-.header-23-sub .hero-unit {
+.header-sub .hero-unit {
   margin: 0;
   padding: 0;
   background: transparent;
   font-size: 30px;
   letter-spacing: -1px;
 }
-.header-23-sub .hero-unit strong {
+.header-sub .hero-unit strong {
   font-size: 36px;
   font-weight: 800;
   letter-spacing: -2px;
 }
 @media (max-width: 979px) {
-  .header-23-sub .hero-unit strong {
+  .header-sub .hero-unit strong {
     display: block;
   }
 }
-.header-23-sub .hero-unit span {
+.header-sub .hero-unit span {
   font-weight: 300;
 }
 @media (max-width: 979px) {
-  .header-23-sub .hero-unit span {
+  .header-sub .hero-unit span {
     display: block;
   }
 }
-.header-23-sub .hero-unit .btn-play {
+.header-sub .hero-unit .btn-play {
   display: inline-block;
   text-indent: -9999px;
   vertical-align: middle;
@@ -8199,11 +8199,11 @@ body section[class*=content-] {
   background: url(../img/btn-play.png) no-repeat;
 }
 @media (max-width: 979px) {
-  .header-23-sub .hero-unit .btn-play {
+  .header-sub .hero-unit .btn-play {
     margin: 40px 0;
   }
 }
-.header-23-sub .background {
+.header-sub .background {
   opacity: 0.1;
   filter: alpha(opacity=10);
 }
